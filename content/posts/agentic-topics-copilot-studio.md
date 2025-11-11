@@ -1,5 +1,5 @@
 +++
-title = "Designing Topics in Copilot Studio for Agentic Bots"
+Designing Topics in Copilot Studio for Agentic Bots
 date = 2025-11-11T15:30:00Z
 draft = false
 +++
