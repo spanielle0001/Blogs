@@ -1,8 +1,6 @@
-+++
+
 Designing Topics in Copilot Studio for Agentic Bots
-date = 2025-11-11T15:30:00Z
-draft = false
-+++
+
 
 > 🧠 Ever wonder why some Copilot Studio bots feel “smarter” — like they can actually *plan* instead of just reply?  
 > The secret isn’t the model… it’s how you **structure your topics**.
